@@ -1,0 +1,17 @@
+{
+  "name": "portafolio-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plantilla de landing/portafolio personal one-page: HTML, CSS y JS vanilla, modo oscuro, SEO y formulario validado.",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve@14.2.4 -l 5175 .",
+    "serve:py": "python -m http.server 5175",
+    "test": "node --test"
+  },
+  "author": "Angel Castañeda Meza (https://github.com/angel-cm-dev)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}

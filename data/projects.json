@@ -1,0 +1,40 @@
+[
+  {
+    "titulo": "Plataforma de despliegue con Docker Swarm",
+    "descripcion": "Infraestructura para múltiples apps con Docker Swarm, Traefik como reverse proxy, certificados SSL automáticos y monitoreo.",
+    "tags": ["Docker", "Traefik", "DevOps"],
+    "repo": "https://github.com/angel-cm-dev",
+    "destacado": true
+  },
+  {
+    "titulo": "Asistente con IA para atención al cliente",
+    "descripcion": "Chatbot con IA conectado a WhatsApp y a la base de conocimiento del negocio, orquestado con n8n y una API en FastAPI.",
+    "tags": ["IA", "Python", "FastAPI", "n8n"],
+    "repo": "https://github.com/angel-cm-dev",
+    "destacado": true
+  },
+  {
+    "titulo": "API de facturación",
+    "descripcion": "API REST en .NET 8 con arquitectura limpia, autenticación JWT, Entity Framework Core y documentación OpenAPI.",
+    "tags": [".NET", "C#", "API"],
+    "repo": "https://github.com/angel-cm-dev"
+  },
+  {
+    "titulo": "Dashboard de ventas",
+    "descripcion": "Dashboard estático con KPIs, filtros por mes y región, gráficos con Chart.js y tabla ordenable.",
+    "tags": ["JavaScript", "Chart.js", "Frontend"],
+    "repo": "https://github.com/angel-cm-dev/dashboard-ventas"
+  },
+  {
+    "titulo": "Validador Perú JS",
+    "descripcion": "Librería npm para validar RUC (módulo 11), DNI, Carné de Extranjería, celulares y placas del Perú, con tipos TypeScript.",
+    "tags": ["JavaScript", "npm", "Open Source"],
+    "repo": "https://github.com/angel-cm-dev/validador-peru-js"
+  },
+  {
+    "titulo": "Monitor de uptime",
+    "descripcion": "CLI en Node.js sin dependencias que monitorea URLs, guarda historial y genera una página de estado.",
+    "tags": ["Node.js", "DevOps", "CLI"],
+    "repo": "https://github.com/angel-cm-dev/monitor-uptime-node"
+  }
+]
